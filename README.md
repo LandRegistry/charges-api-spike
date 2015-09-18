@@ -1,6 +1,17 @@
 # API Skeleton
 
+### Contents
+
+- [Usage](#usage)
+- [Testing](#Testing)
+
 The API Skeleton provides a skeleton API for use with flask API projects.
+
+## Usage
+```
+get     /                           # automatically redirects to helloworld for app test
+get     /helloworld                 # test endpoint for the application
+```
 
 ## Testing
 
