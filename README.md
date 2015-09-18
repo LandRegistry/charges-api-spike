@@ -3,6 +3,7 @@
 ### Contents
 
 - [Usage](#usage)
+- [Getting Started](#Getting started)
 - [Testing](#Testing)
 
 The API Skeleton provides a skeleton API for use with flask API projects.
@@ -11,6 +12,12 @@ The API Skeleton provides a skeleton API for use with flask API projects.
 ```
 get     /                           # automatically redirects to helloworld for app test
 get     /helloworld                 # test endpoint for the application
+```
+## Getting Started
+1. Clone the repo
+2. In the directory enter the command
+```
+pip install -r requirements.txt
 ```
 
 ## Testing
